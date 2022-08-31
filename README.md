@@ -1,5 +1,5 @@
 # GPT3-discord-AI-chatbot
-This is a discord chatbot. using gpt3 openai api
+This is a discord chatbot that works using OpenAI's GPT-3 API.
 
 
 Create an .env file and put your bot token and openai api token there.  
