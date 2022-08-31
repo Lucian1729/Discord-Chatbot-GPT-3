@@ -10,7 +10,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 @client.event
 async def on_ready():
-    print("Lucy is now alive.")
+    print("Bot is now alive.")
 
 @client.command()
 async def hello(ctx):
